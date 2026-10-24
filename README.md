@@ -13,11 +13,14 @@ I also wanted to put in a few games when I need a break (instead of scrolling lo
 
 # Parts
 The r-bot is made up of:
-- 1 Seedstudio Xiao ESP32S3
-- 1 HLK-LD2450 https://www.aliexpress.com/item/1005005637495945.html
-- 1 1.5 Inch 128x128 OLED https://www.aliexpress.com/item/4000049991220.html
-- 5 WS2812B Leds https://www.aliexpress.com/item/4001345875756.html
-- 1 ENS160+AHT21 Air Quality And Temperature And Humidity Sensor
+| Part     | Link    |
+| -------- | ------- |
+| Seedstudio Xiao ESP32S3  |  https://www.aliexpress.com/item/1005005637495945.html   |
+| HLK-LD2450 |https://www.aliexpress.com/item/4000049991220.html    |
+| 1.5 Inch 128x128 OLED    |  https://www.aliexpress.com/item/4000049991220.html   |
+| 5 WS2812B Leds | https://www.aliexpress.com/item/4001345875756.html |
+| ENS160+AHT21 Air Quality And Temperature And Humidity Sensor |  https://www.aliexpress.com/item/1005005637495945.html |
+
 
 
 Thanks for taking a look!
