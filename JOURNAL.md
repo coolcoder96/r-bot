@@ -76,6 +76,6 @@ Seeing the finalised PCB was really cool, I honestly couldn't believe that I had
 The only thing I have not completed is the code, it is currently still the stock starbie one (dw I will get around to finishing it off). I am currently in my exam studying period with my final exams in two weeks so I have not had much time to focus on this project unfortunately.
 
 I also have one question:
-I already bought everything that I need, including ordering the PCB from Jlcpcb and parts from aliexpress, does that mean I cannot receive funding for this project?
+I already bought everything that I need, including ordering the PCB from Jlcpcb and parts from aliexpress, does that mean I cannot receive funding for this project? I also put through the PCB in the second week's funding, is that ok?
 
 Thanks!
