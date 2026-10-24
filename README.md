@@ -5,6 +5,13 @@ This project is a WORK IN PROGRESS! I'm still updating code and case designs.
 
 <img width="947" height="887" alt="image" src="https://github.com/user-attachments/assets/451037ce-1510-4dbe-a4f7-ce7054c1c121" />
 
+# The Reason I buit this
+I wanted to make some sort of device that would help me to keep myself on top of my busy life.
+I wanted it to be able to remind me of things on my calender and to-do list.
+I also wanted to put in a few games when I need a break (instead of scrolling lol), this includes using the presence sensor to get me to get up and move around my room.
+
+
+# Parts
 The r-bot is made up of:
 - 1 Seedstudio Xiao ESP32S3
 - 1 HLK-LD2450 https://www.aliexpress.com/item/1005005637495945.html
@@ -12,4 +19,15 @@ The r-bot is made up of:
 - 5 WS2812B Leds https://www.aliexpress.com/item/4001345875756.html
 - 1 ENS160+AHT21 Air Quality And Temperature And Humidity Sensor
 
+
 Thanks for taking a look!
+# Other Pics
+
+Original plan:
+<img width="2651" height="3773" alt="IMG_8478" src="https://github.com/user-attachments/assets/18adc311-708d-4a0b-b64a-1bac0e5a84e9" />
+
+
+Upcoming case:
+<img width="983" height="916" alt="image" src="https://github.com/user-attachments/assets/be22107f-ab30-4652-b12f-00b12bfd35a2" />
+
+
