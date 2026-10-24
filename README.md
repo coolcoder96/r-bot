@@ -30,4 +30,9 @@ Original plan:
 Upcoming case:
 <img width="983" height="916" alt="image" src="https://github.com/user-attachments/assets/be22107f-ab30-4652-b12f-00b12bfd35a2" />
 
+PCB and Schematic pics:
+(Autotracer really saved me with this one)
+<img width="818" height="701" alt="image" src="https://github.com/user-attachments/assets/b6ea86fc-68ff-4014-a9d3-21e15616b229" />
+
+<img width="1391" height="919" alt="image" src="https://github.com/user-attachments/assets/ee9fd145-951a-4302-97e4-d58bb39d799a" />
 
